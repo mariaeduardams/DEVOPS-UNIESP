@@ -53,11 +53,3 @@ Durante o período da atividade, farei um **commit surpresa** propositalmente qu
 | **Qualidade** | O Smoke Test valida a saúde da aplicação? | 15% |
 | **Segurança** | Uso correto de GitHub Secrets para senhas e tokens. | 15% |
 
----
-
-## 📖 Como Entregar
-1. Realize o fork/clone deste repositório.
-2. Implemente o arquivo `.github/workflows/pipeline.yml`.
-3. Certifique-se de que o README do seu grupo contenha os nomes dos integrantes e o link para a aplicação rodando (se aplicável).
-
-> "Software funcionando é a medida primária de progresso." — Manifesto Ágil
